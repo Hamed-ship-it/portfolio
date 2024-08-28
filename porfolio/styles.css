@@ -1,0 +1,39 @@
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+li {
+    list-style: none;
+}
+nav ul li a:hover {
+    color: blue;
+}
+.process {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 25%;
+    height: 300px;
+}
+.one {
+    display: flex;
+    justify-content: space-between;
+}
+.two {
+    display: flex;
+    justify-content: space-between;
+}
+.am {
+    display: flex;
+    justify-content: space-between;
+}
+section {
+    display: flex;
+    justify-content: space-between;  
+}
